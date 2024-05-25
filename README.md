@@ -33,7 +33,7 @@ none
 
 ## Tests
 
-![Redux Store Screenshot](./Unsolved/client/src/assets/reduxStore.png)
+![Redux Store Screenshot](./client/src/assets/reduxStore.png)
 
 ## Questions
 
