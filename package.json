@@ -10,12 +10,14 @@
     "seed": "cd server && npm run seed",
     "build": "cd client && npm run build",
     "test": "cd client && npm run tests"
-
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.0"
   }
 }
